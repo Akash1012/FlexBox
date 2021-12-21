@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+}
+
+.container {
+  border: 6px solid black;
+  display: inline-flex;
+  /* flex-direction: column; */
+  /* height: 400px; */
+  /* flex-wrap: wrap; */
+  flex-flow: row wrap;
+  /* justify-content: space-around; */
+}
+
+.flex-item {
+  color: white;
+  font-size: 1.5rem;
+  padding: 1rem;
+  text-align: center;
+}
+
+.item-2 {
+  background-color: tomato;
+}
+
+.item-3 {
+  background-color: rgb(71, 255, 117);
+}
+
+.item-4 {
+  background-color: rgb(99, 71, 255);
+}
+
+.item-5 {
+  background-color: rgb(255, 71, 163);
+}
+
+.item-6 {
+  background-color: tomato;
+}
+
+.item-7 {
+  background-color: rgb(237, 255, 71);
+}
+
+.item-8 {
+  background-color: rgba(71, 255, 95, 0.267);
+}
+
+.item-9 {
+  background-color: rgb(11, 201, 214);
+}
+
+.item-1 {
+  background-color: rgb(20, 19, 19);
+}
